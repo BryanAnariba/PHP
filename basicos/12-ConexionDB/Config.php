@@ -4,4 +4,3 @@
     define( 'DBNAME', 'AlbumDB' );
     define( 'USER', 'root' );
     define( 'PASSWORD', '' );
-    //3:21
